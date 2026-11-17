@@ -8,9 +8,8 @@ Este documento describe el proyecto completo: el **software de escritorio** (Jav
 2. [Software de escritorio](#2-software-de-escritorio)
 3. [Sitio web](#3-sitio-web)
 4. [Despliegue con Docker](#4-despliegue-con-docker)
-5. [Publicar en Git](#5-publicar-en-git)
-6. [Solución de problemas](#6-solución-de-problemas)
-7. [Notas y limitaciones](#7-notas-y-limitaciones)
+5. [Solución de problemas](#5-solución-de-problemas)
+6. [Notas y limitaciones](#6-notas-y-limitaciones)
 
 ---
 
@@ -265,33 +264,7 @@ y cerrar sesión y volver a entrar.
 
 ---
 
-## 5. Publicar en Git
-
-Se recomiendan dos repositorios (o dos carpetas): uno para el software Java y otro para la web.
-
-`.gitignore` sugerido para la web:
-
-```
-.env
-```
-
-`.gitignore` sugerido para el software Java:
-
-```
-out/
-target/
-build/
-*.class
-.idea/
-*.iml
-.vscode/
-```
-
-Para ofrecer el `.zip` del programa, creá un **Release** en el repositorio, adjuntá el `.zip` y copiá su enlace de descarga a `DOWNLOAD_URL`.
-
----
-
-## 6. Solución de problemas
+## 5. Solución de problemas
 
 | Síntoma | Causa probable | Solución |
 |---|---|---|
@@ -304,7 +277,7 @@ Para ofrecer el `.zip` del programa, creá un **Release** en el repositorio, adj
 
 ---
 
-## 7. Notas y limitaciones
+## 6. Notas y limitaciones
 
 - Los valores recomendados son puntos de partida. No reemplazan las pruebas en banco o en pista.
 - El **multiplicador por etapa** del difusor es una convención del programa (fracción de la longitud teórica de la etapa). Bell no la define: solo indica el largo de la primera sección, por ejemplo 200 a 240 mm para motocross y enduro de dos etapas, y 110 a 160 mm en carretera según el número de etapas.
