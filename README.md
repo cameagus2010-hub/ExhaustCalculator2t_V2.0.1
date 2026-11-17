@@ -27,16 +27,6 @@ Desde el `.zip` de la última versión:
 java -jar CalculadoraEscape2T.jar
 ```
 
-Desde el código fuente:
-
-```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-cd TU_REPO
-# compilá con tu IDE o con javac, por ejemplo:
-javac -d out src/com/agustin/calculadoraescape2t/*.java
-java -cp out com.agustin.calculadoraescape2t.Main
-```
-
 ## Cómo se usa
 
 1. Elegí la **cilindrada** y el **uso**; el programa propone valores para header, difusor, baffle y stinger.
