@@ -17,7 +17,7 @@ A partir de los datos del motor (cilindrada, RPM objetivo, duración de escape y
 
 ## Requisitos
 
-- Java 17 o superior (JDK para compilar, JRE para ejecutar).
+- Java 25.
 
 ## Ejecutar
 
