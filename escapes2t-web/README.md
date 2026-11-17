@@ -5,21 +5,13 @@ Incluye registro e inicio de sesión (usuario y contraseña), link de descarga d
 
 ## Cómo levantarlo
 
-1. Copiá la configuración:
-
-   ```bash
-   cp .env.example .env
-   ```
-
-2. Editá `.env`: cambiá las contraseñas y poné tus links reales en `DOWNLOAD_URL` y `REPO_URL`.
-
-3. Levantá todo:
+1. Levantá todo:
 
    ```bash
    docker compose up -d --build
    ```
 
-4. Abrí http://localhost:8080 (o el puerto que pusiste en `WEB_PORT`).
+2. Abrí http://localhost:8080 (o el puerto que pusiste en `WEB_PORT`).
 
 ## Comandos útiles
 
