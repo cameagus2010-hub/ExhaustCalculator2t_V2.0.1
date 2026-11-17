@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Perfil 2D del escape de ejemplo">
+<line x1="10" y1="170" x2="1190" y2="170" stroke="#4b5b73" stroke-dasharray="6 6"/>
+<path d="M40.0,150.7 L60.3,150.7 L80.6,150.7 L368.1,144.4 L584.3,127.4 L630.4,121.7 L689.9,121.7 L878.1,158.3 L1160.0,158.3 L1160.0,181.7 L878.1,181.7 L689.9,218.3 L630.4,218.3 L584.3,212.6 L368.1,195.6 L80.6,189.3 L60.3,189.3 L40.0,189.3 Z" fill="rgba(0,229,255,0.10)" stroke="#00e5ff" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="60.3" y1="30" x2="60.3" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="50.2" y="22" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">PUERTO</text>
+<text x="50.2" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">20 mm</text>
+<line x1="80.6" y1="30" x2="80.6" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="70.5" y="36" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">FLANGE</text>
+<text x="70.5" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">20 mm</text>
+<line x1="368.1" y1="30" x2="368.1" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="224.4" y="22" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">HEADER</text>
+<text x="224.4" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">283 mm</text>
+<line x1="584.3" y1="30" x2="584.3" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="476.2" y="36" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">DIF 1</text>
+<text x="476.2" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">213 mm</text>
+<line x1="630.4" y1="30" x2="630.4" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="607.4" y="22" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">DIF 2</text>
+<text x="607.4" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">45 mm</text>
+<line x1="689.9" y1="30" x2="689.9" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="660.2" y="36" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">PANZA</text>
+<text x="660.2" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">59 mm</text>
+<line x1="878.1" y1="30" x2="878.1" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="784.0" y="22" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">BAFFLE</text>
+<text x="784.0" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">185 mm</text>
+<line x1="1160.0" y1="30" x2="1160.0" y2="310" stroke="#6f819c" stroke-dasharray="3 5"/>
+<text x="1019.0" y="36" fill="#d7e4f5" font-family="monospace" font-size="12" text-anchor="middle" font-weight="700">STINGER</text>
+<text x="1019.0" y="328" fill="#9fb3cc" font-family="monospace" font-size="11" text-anchor="middle">278 mm</text>
+</svg>
