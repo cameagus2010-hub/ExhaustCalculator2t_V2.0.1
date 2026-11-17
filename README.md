@@ -78,4 +78,4 @@ El proyecto cuenta con una página web (PHP + MariaDB + Docker) con la presentac
 
 ## Licencia
 
-Definí acá la licencia del proyecto (por ejemplo MIT) y agregá el archivo `LICENSE`.
+Acá la licencia del proyecto [LICENSE](LICENCE).
