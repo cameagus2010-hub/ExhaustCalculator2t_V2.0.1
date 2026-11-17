@@ -78,4 +78,4 @@ El proyecto cuenta con una página web (PHP + MariaDB + Docker) con la presentac
 
 ## Licencia
 
-Acá la licencia del proyecto [LICENSE](LICENCE).
+Acá la licencia del proyecto [LICENSE](LICENSE).
